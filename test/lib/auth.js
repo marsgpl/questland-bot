@@ -22,7 +22,7 @@ module.exports = {
         device: "8a90a01b82c7ac8e343f31f2ad1b8365",
         player_id: "117149349254470692354",
         token: "ffa6f7a2d0068d59868c9a073a288320",
-        version: "1.10.0.24",
+        version: "1.10.1.27",
         client_platform: "hd_android",
     },
 }

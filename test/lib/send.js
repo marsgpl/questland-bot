@@ -53,9 +53,11 @@ module.exports = async function(conf) {
     return await fetch(url, {
         method: "POST",
         headers: {
-            //"Content-Type": "application/x-www-form-urlencoded",
+            "Content-Type": "application/x-www-form-urlencoded",
             "questlanddc": conf.questlanddc,
             "Accept": "application/json",
+            "User-Agent": "",
+            "Accept-Encoding": "identity",
         },
         body: params,
         //~ body: querystring.stringify(conf.body),
