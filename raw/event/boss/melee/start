@@ -1,0 +1,45 @@
+POST /boss/battleeventfightstart/?rand=qogtguti HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 228
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+boss_kind=warrior&tickets_cost=1&req_id=11&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529202487.575216&time_spent_in_game=17HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:30:19 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"ok","data":{"battle_event_boss_battle":{"init":{"seed":674952908,"first_team":1,"expire_sec":120,"turns_limit":50,"mred_per":100,"flags":4071,"team1":[[{"id":1820427,"hp":184689,"hp0":184689,"pos":1,"w":1,"w0":1,"ap":0,"bp":0,"lives":1,"team":1,"avatar":0,"graphic":0,"scale":1,"name":"REFORGE","sex":"male","damage":80577,"defence":83592,"magic":69228,"crit":10,"crit_val":1.5,"dodge":5,"ai":"player_attacker","ifa_minion":null,"ifa_param":0,"askills":[{"id":1,"name":"Fireball","desc":"Deals <color=#FD5E35FF>103842<\/color> damage.","cd":2,"cd0":2,"ap":3,"dst":"enemy","eff":"magic_hit","mmul":1.5,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":1},{"id":2,"name":"Blizzard","desc":"Deals <color=#FD5E35FF>69228<\/color> damage to each enemy.","cd":4,"cd0":4,"ap":6,"dst":"all_enemies","eff":"magic_hit","mmul":1,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":6},{"id":3,"name":"Restoration","desc":"Heals you for <color=#80d712FF>48460<\/color> HP.","cd":5,"cd0":5,"ap":3,"dst":"self","eff":"heal","mmul":0.7,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":7}],"pskills":[{"id":1,"desc":"When below 40% of max Health damage of Fireball and Blizzard is increased by 23%","name":"Magic Overflow","eff":"hit_magic_per","trig":"hp_below_n_per","trigp":40,"ch":100,"dur":0,"val":23},{"id":2,"desc":"When below 50% of max Health damage received from melee attacks is reduced by 15% ","name":"Invisible Carapace","eff":"red_melee_per","trig":"hp_below_n_per","trigp":50,"ch":100,"dur":0,"val":15}],"buf":[],"buf2":[],"dmg_array":[],"ticket_multiplier":0,"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]}]],"team2":[[{"id":-1,"hp":485100,"hp0":485100,"pos":1,"w":2,"w0":2,"ap":0,"bp":0,"lives":1,"team":2,"avatar":7701,"graphic":3963,"scale":0.7,"name":"Damned","sex":"male","damage":270000,"defence":11250,"magic":32813,"crit":0,"crit_val":1,"dodge":0,"ai":"mob_boss_battle_event_warrior","ifa_minion":null,"ifa_param":0,"askills":[{"id":1,"name":"","desc":"","cd":1000,"cd0":1000,"ap":1000,"dst":"enemy","eff":"magic_hit","mmul":1,"val":1,"grow":0,"on_dead":0,"disabled":1,"req_lvl":1}],"pskills":[],"buf":[],"buf2":[],"dmg_array":[],"ticket_multiplier":0,"askl":[[1,1000,1]]}]]}},"server_time":1529202619,"chat":{"last_uts":"_1529202616.064872","next_refresh":5,"messages":{"global":{"1757390":[1749763,"_1529202616.064872",0,0,"Just got <i#4025> from <#F0DFA3>Events<\/color>",1]}}},"heroes_avatars":{"1749763":{"h":["SKY93",24,"m",169110],"b":[109,192,175,null,154,320,null,177,3,11],"g":["","member"]}},"items_list":[{"a":[8,3837,1820427,"hero",null,12],"use":[0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":11,"gold":4008,"premium":865,"guild_id":0}}}
+
+
+
+x3 tickets melee boss lvl 1
+
+
+
+POST /boss/battleeventfightstart/?rand=oxxnsjuk HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 229
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+boss_kind=warrior&tickets_cost=3&req_id=25&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529202693.995232&time_spent_in_game=144HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:32:41 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"ok","data":{"battle_event_boss_battle":{"init":{"seed":672776992,"first_team":1,"expire_sec":120,"turns_limit":50,"mred_per":100,"flags":4071,"team1":[[{"id":1820427,"hp":923445,"hp0":923445,"pos":1,"w":1,"w0":1,"ap":0,"bp":0,"lives":1,"team":1,"avatar":0,"graphic":0,"scale":1,"name":"REFORGE","sex":"male","damage":80577,"defence":83592,"magic":69228,"crit":10,"crit_val":1.5,"dodge":5,"ai":"player_attacker","ifa_minion":null,"ifa_param":0,"askills":[{"id":1,"name":"Fireball","desc":"Deals <color=#FD5E35FF>103842<\/color> damage.","cd":2,"cd0":2,"ap":3,"dst":"enemy","eff":"magic_hit","mmul":1.5,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":1},{"id":2,"name":"Blizzard","desc":"Deals <color=#FD5E35FF>69228<\/color> damage to each enemy.","cd":4,"cd0":4,"ap":6,"dst":"all_enemies","eff":"magic_hit","mmul":1,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":6},{"id":3,"name":"Restoration","desc":"Heals you for <color=#80d712FF>48460<\/color> HP.","cd":5,"cd0":5,"ap":3,"dst":"self","eff":"heal","mmul":0.7,"val":0,"grow":0,"on_dead":0,"disabled":0,"req_lvl":7}],"pskills":[{"id":1,"desc":"When below 40% of max Health damage of Fireball and Blizzard is increased by 23%","name":"Magic Overflow","eff":"hit_magic_per","trig":"hp_below_n_per","trigp":40,"ch":100,"dur":0,"val":23},{"id":2,"desc":"When below 50% of max Health damage received from melee attacks is reduced by 15% ","name":"Invisible Carapace","eff":"red_melee_per","trig":"hp_below_n_per","trigp":50,"ch":100,"dur":0,"val":15}],"buf":[],"buf2":[],"dmg_array":[],"ticket_multiplier":5,"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]}]],"team2":[[{"id":-1,"hp":346446,"hp0":485100,"pos":1,"w":2,"w0":2,"ap":0,"bp":0,"lives":1,"team":2,"avatar":7701,"graphic":3963,"scale":0.7,"name":"Damned","sex":"male","damage":270000,"defence":11250,"magic":32813,"crit":0,"crit_val":1,"dodge":0,"ai":"mob_boss_battle_event_warrior","ifa_minion":null,"ifa_param":0,"askills":[{"id":1,"name":"","desc":"","cd":1000,"cd0":1000,"ap":1000,"dst":"enemy","eff":"magic_hit","mmul":1,"val":1,"grow":0,"on_dead":0,"disabled":1,"req_lvl":1}],"pskills":[],"buf":[],"buf2":[],"dmg_array":[],"ticket_multiplier":0,"askl":[[1,1000,1]]}]]}},"server_time":1529202761,"chat":{"last_uts":"_1529202693.995232","next_refresh":30},"items_list":[{"a":[8,3837,1820427,"hero",null,9],"use":[0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":25,"gold":4008,"premium":865,"guild_id":0}}}

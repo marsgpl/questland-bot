@@ -1,0 +1,13 @@
+{
+  "name": "questland-bot",
+  "version": "1.0.0",
+  "description": "rest api questland bot",
+  "main": "qlbot.js",
+  "repository": "git@github.com:marsgpl/questland-bot.git",
+  "author": "marsgpl",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}

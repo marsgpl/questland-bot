@@ -1,0 +1,19 @@
+POST /item/useexactshard/?rand=cdimvpxw HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 207
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+itemID=163&req_id=272&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529196718.080484&time_spent_in_game=23HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:52:34 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"server_time":1529196754,"chat":{"last_uts":"_1529196718.080484","next_refresh":30},"items_list":[{"a":[164,729,1820427,"hero",null,1],"wear":[0,1,0,[],0,0,0,0,0,0,0,0]},{"a":[163,778,1820427,"deleted",null,0]}],"rewards_popups":{"parts":{"items":[[729,1]]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":272,"gold":23001,"premium":640,"guild_id":0}}}

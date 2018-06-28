@@ -1,0 +1,19 @@
+POST /spin/buy/?rand=jdbfygdx HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 196
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+req_id=285&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529196795.104511&time_spent_in_game=18HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"spin_result":{"slot":1},"server_time":1529196861,"chat":{"last_uts":"_1529196795.104511","next_refresh":30},"items_list":[{"a":[159,405,1820427,"deleted",null,0],"use":[0]}],"rewards_popups":{"spin":{"gold":12000,"goldbon":0}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":285,"gold":34431,"premium":640,"guild_id":0}}}

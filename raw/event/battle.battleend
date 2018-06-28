@@ -1,0 +1,45 @@
+POST /battle/battleend/?rand=jvfizmat HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 345
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+locationID=37&stageNO=2&mode=normal&battleResult=win&difficulty=normal&battleLog=0-2.0-2.0-2.0-3.0-3.0-1.0-1.0-1.1-1.0-1.0-1.0-2.0-2.1-3.0-3.0-1.0-1.&req_id=397&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529201590.007102&turnsDone=17&stars=3HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:13:52 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"ok","data":{"server_time":1529201632,"chat":{"last_uts":"_1529201590.007102","next_refresh":30},"hero_quests":[[323,15,1,1],[324,500,1,1],[325,3,1,1],[455,3,1,1],[505,1,1,1],[544,1,1,1],[735,50,1,1],[1515,1,1,1],[1779,0,0,0],[1593,6,0,0],[1525,1,0,0],[968,0,0,0],[373,7900,0,0],[568,34,0,0],[1781,0,0,0],[363,17,0,0],[479,34,0,0],[712,0,0,0],[1708,137,0,0],[610,8,0,0],[55,0,0,0],[722,0,0,0],[720,0,0,0]],"hero_stages":[{"id":1,"loc_id":3,"a":[1,1,0,0,1,0,0,0,0,1,1,0,3,3,0]},{"id":2,"loc_id":3,"a":[1,1,0,0,1,0,0,0,0,1,1,0,3,3,0]},{"id":88,"loc_id":3,"a":[1,4,0,0,4,0,0,0,0,1,1,0,3,3,0]},{"id":89,"loc_id":3,"a":[1,0,0,0,0,0,0,0,0,1,1,0,3,0,0]},{"id":3,"loc_id":3,"a":[1,0,0,0,0,0,0,0,0,1,0,0,3,0,0]},{"id":4,"loc_id":1,"a":[1,0,0,0,0,0,0,0,0,1,0,0,3,0,0]},{"id":5,"loc_id":1,"a":[1,0,0,0,0,0,0,0,0,1,0,0,3,0,0]},{"id":6,"loc_id":1,"a":[1,0,0,0,0,0,0,0,0,1,0,0,3,0,0]},{"id":7,"loc_id":1,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":90,"loc_id":1,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":149,"loc_id":20,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":150,"loc_id":20,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":151,"loc_id":20,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":152,"loc_id":20,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":153,"loc_id":20,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":8,"loc_id":2,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":9,"loc_id":2,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":10,"loc_id":2,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":11,"loc_id":2,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":69,"loc_id":2,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":91,"loc_id":2,"a":[2,0,0,2,0,0,0,0,0,1,0,0,3,0,0]},{"id":155,"loc_id":21,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":291,"loc_id":37,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":293,"loc_id":37,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":156,"loc_id":21,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":157,"loc_id":21,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":158,"loc_id":21,"a":[2,0,0,2,0,0,0,0,0,1,0,0,2,0,0]},{"id":159,"loc_id":21,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":160,"loc_id":21,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":23,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":24,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":25,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":26,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":27,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":74,"loc_id":10,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":75,"loc_id":10,"a":[3,0,0,3,0,0,0,0,0,1,0,0,3,0,0]},{"id":170,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":171,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":172,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":173,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":174,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":175,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":176,"loc_id":24,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":13,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":14,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":15,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":16,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":147,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":70,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":92,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,2,0,0]},{"id":116,"loc_id":4,"a":[1,0,0,1,0,0,0,0,0,1,0,0,1,0,0]},{"id":162,"loc_id":22,"a":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},{"id":295,"loc_id":37,"a":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]}],"items_list":[{"a":[10,1061,1820427,"hero",null,2485],"use":[0]},{"a":[8,3837,1820427,"hero",null,12],"use":[0]},{"a":[128,3841,1820427,"hero",null,12],"use":[0]},{"a":[129,3839,1820427,"hero",null,3300],"use":[0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":397,"gold":2071,"premium":865,"guild_id":0,"exp":15369,"exp_now":13780,"exp_next":16080}}}
+
+
+
+DEFEAT:
+
+
+
+POST /battle/battleend/?rand=szyanyyg HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 277
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+locationID=37&stageNO=3&mode=normal&battleResult=lost&difficulty=normal&battleLog=0-1.0-1.&req_id=405&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529201653.953999&turnsDone=2HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:15:03 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"ok","data":{"server_time":1529201703,"chat":{"last_uts":"_1529201699.48757","next_refresh":5,"messages":{"global":{"1757325":[886603,"_1529201699.48757",0,0,"Just got <i#4555> from <#F0DFA3>CHALLENGE CRAFT<\/color>",1]}}},"heroes_avatars":{"886603":{"h":["REDDARK",65,"m",162735],"b":[275,142,255,null,156,131,null,260,5,13],"g":["","member"]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":405,"gold":2071,"premium":865,"guild_id":0,"exp":15429,"exp_now":13780,"exp_next":16080}}}

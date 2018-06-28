@@ -1,0 +1,19 @@
+POST /bank/getgold/?rand=bglyljbj HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 173
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+req_id=113&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529046950.55431HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Fri, 15 Jun 2018 07:16:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"ok","data":{"server_time":1529046967,"chat":{"last_uts":"_1529046964.774334","next_refresh":10,"like_updates":{"1713029":1}},"bank":{"now":{"level":2,"gold_time":0,"gold_income":250,"gold_capacity":2000},"next":{"level":3,"gold_income":250,"gold_capacity":2000}},"static_data_crc":"f1b68b08da9658992ba5e4b855c35489 0","static_details_crc":"e5560c46e24681967ea8d422f084537a","assets_crc":"94840813a1713600a17ee03b7784b51a","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":113,"gold":72889,"premium":140,"guild_id":0}}}

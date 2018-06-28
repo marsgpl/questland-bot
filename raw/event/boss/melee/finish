@@ -1,0 +1,45 @@
+POST /boss/battleeventfightend/?rand=tjxoqzcr HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 195
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+battle_moves=0-1.0-1.&req_id=14&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529202621.989978HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:30:26 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"ok","data":{"debug_battle_log":[["B","turns=1"],["A",{"id":1820427,"w":1,"hp":184689,"ap":0,"bp":0,"damage":80577,"buf":[],"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]},{"id":-1,"w":2,"hp":415773,"ap":0,"bp":0,"damage":270000,"buf":[],"askl":[[1,1000,1]]},["+skl=0","+dmg=80577","-fdef=11250","-dmg=69327"]],["W",{"id":1820427,"w":1,"hp":184689,"ap":1,"bp":1,"damage":80577,"buf":[],"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]}],["W",{"id":-1,"w":1,"hp":415773,"ap":0,"bp":1,"damage":270000,"buf":[],"askl":[[1,1000,1]]}],["B","turns=2"],["A",{"id":1820427,"w":1,"hp":184689,"ap":1,"bp":1,"damage":80577,"buf":[],"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]},{"id":-1,"w":1,"hp":346446,"ap":0,"bp":1,"damage":270000,"buf":[],"askl":[[1,1000,1]]},["+skl=0","+dmg=80577","-fdef=11250","-dmg=69327"]],["W",{"id":1820427,"w":1,"hp":184689,"ap":2,"bp":2,"damage":80577,"buf":[],"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]}],["A",{"id":-1,"w":1,"hp":346446,"ap":0,"bp":1,"damage":270000,"buf":[],"askl":[[1,1000,1]]},{"id":1820427,"w":1,"hp":-1719,"ap":2,"bp":2,"damage":80577,"buf":[[1,"hit_magic_per",23,1000000],[2,"red_melee_per",15,1000000]],"askl":[[1,2,103842],[2,4,69228],[3,5,48460]]},["+skl=0","+dmg=270000","-fdef=83592","-dmg=186408","-passive=1,hit_magic_per,1820427,23,0","-passive=2,red_melee_per,1820427,15,0"]],["W",{"id":-1,"w":2,"hp":346446,"ap":1,"bp":2,"damage":270000,"buf":[],"askl":[[1,1000,1]]}],["B","end=2"]],"bi_event_boss_multipliers":{"slots_multiplier":9,"ticket_multiplier":0},"server_time":1529202626,"chat":{"last_uts":"_1529202621.989978","next_refresh":5},"hero_battle_event_bosses":{"1":{"name":"Damned","kind":"warrior","av":7701,"homeimg":7435,"hp0":485100,"hp":346446,"lvl":1,"renew":1529202926,"rewards":{"gold":100,"exp":30,"items":[[1061,100],[3839,4000],[3841,4]]}}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":14,"gold":4008,"premium":865,"guild_id":0}}}
+
+
+
+x3 tickets melee boss lvl 1
+
+
+
+POST /boss/battleeventfightend/?rand=naepwxfv HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 191
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+battle_moves=0-1.&req_id=27&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529202693.995232HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:32:45 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"ok","data":{"bi_event_boss_multipliers":{"slots_multiplier":9,"ticket_multiplier":5},"server_time":1529202765,"chat":{"last_uts":"_1529202693.995232","next_refresh":30},"hero_battle_event_bosses":{"1":{"name":"Damned","kind":"warrior","av":7701,"homeimg":7435,"hp0":696465,"hp":696465,"lvl":2,"renew":0,"rewards":{"gold":100,"exp":30,"items":[[1061,100],[3839,4000],[3841,4]]}}},"items_list":[{"a":[10,1061,1820427,"hero",null,3635],"use":[0]},{"a":[129,3839,1820427,"hero",null,9100],"use":[0]},{"a":[128,3841,1820427,"hero",null,22],"use":[0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":27,"gold":4108,"premium":865,"guild_id":0,"exp":15519,"exp_now":13780,"exp_next":16080}}}

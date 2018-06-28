@@ -1,0 +1,11 @@
+POST /payments/androidconfirm/?rand=ksmvcqfm HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 1085
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+products_subids%5b%5d=666&transaction_data=%7b%22orderId%22%3a%22GPA.3363-7811-0575-61362%22%2c%22productId%22%3a%22com.gamesture.questland.offer_s5%22%2c%22purchaseTime%22%3a1529262336945%2c%22signature%22%3a%22dcu%2fV%2bNogxPcVTJrXvEVehE3Ph2oSUep2LzJfkJixB9ti8CJTCURITNNSzM%2f%2fJ7MVeDKqDPhYbYFNudJxD8cc5h%2f35BqEQtkPK1nUJpYhw0l1GvDQphfTVKPNdTEvcPVwRpY2C4JOSA70%2bn7M2Bz7wHR8uPUDQ7NsUBNv9WRl28U0c9fOG9vacGdScCGlvVzJZAYxSF20DgBMo0dIbvVJMvZzWi4%2bIyxEMqa%2ffKQF8JqA2yfyJY80cAUMMElRlFWBf58sl7Y1W4hp30hdB545i1f8hE0LN7%2fXYN5nN5v5NAkKRTC371Qwgr7dp5xsbJDQIwMqUX1Rjp%2f0OiGtDfGxg%3d%3d%22%2c%22purchaseToken%22%3a%22bhdfjehipopljdabglciafjo.AO-J1OxN_JhJy4U0oQQuAyUaeotHls4sF9-cSnFXiiEOkXlImePhA5Y-CgNmKuORWJ6L0rZknt5aCIuyjcHxHTADpVeWlOzs_cj_3m1yGYFHeCFEsY9M-6uq4jqFd-gtBUCo7g3RIuvJOBB1UXMJYu_3A-gF5dvu-Q%22%7d&product=com.gamesture.questland.offer_s5&price=RUB%c2%a0379.00&currency=RUB&req_id=19&lang=en&device=8a90a01b82c7ac8e343f31f2ad1b8365&player_id=117149349254470692354&token=ffa6f7a2d0068d59868c9a073a288320&version=1.10.0.24&client_platform=hd_android&chat_last_uts=1529262293.55689
+
+products_subids[]=666&transaction_data={"orderId":"GPA.3363-7811-0575-61362","productId":"com.gamesture.questland.offer_s5","purchaseTime":1529262336945,"signature":"dcu/V+NogxPcVTJrXvEVehE3Ph2oSUep2LzJfkJixB9ti8CJTCURITNNSzM//J7MVeDKqDPhYbYFNudJxD8cc5h/35BqEQtkPK1nUJpYhw0l1GvDQphfTVKPNdTEvcPVwRpY2C4JOSA70+n7M2Bz7wHR8uPUDQ7NsUBNv9WRl28U0c9fOG9vacGdScCGlvVzJZAYxSF20DgBMo0dIbvVJMvZzWi4+IyxEMqa/fKQF8JqA2yfyJY80cAUMMElRlFWBf58sl7Y1W4hp30hdB545i1f8hE0LN7/XYN5nN5v5NAkKRTC371Qwgr7dp5xsbJDQIwMqUX1Rjp/0OiGtDfGxg==","purchaseToken":"bhdfjehipopljdabglciafjo.AO-J1OxN_JhJy4U0oQQuAyUaeotHls4sF9-cSnFXiiEOkXlImePhA5Y-CgNmKuORWJ6L0rZknt5aCIuyjcHxHTADpVeWlOzs_cj_3m1yGYFHeCFEsY9M-6uq4jqFd-gtBUCo7g3RIuvJOBB1UXMJYu_3A-gF5dvu-Q"}&product=com.gamesture.questland.offer_s5&price=RUB 379.00&currency=RUB&req_id=19&lang=en&device=8a90a01b82c7ac8e343f31f2ad1b8365&player_id=117149349254470692354&token=ffa6f7a2d0068d59868c9a073a288320&version=1.10.0.24&client_platform=hd_android&chat_last_uts=1529262293.55689

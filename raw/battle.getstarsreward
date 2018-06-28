@@ -1,0 +1,19 @@
+POST /battle/getstarsreward/?rand=cvlixcrc HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 241
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+locationID=10&difficulty=normal&thresholdNO=1&req_id=226&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529196293.25156&time_spent_in_game=11HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:45:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"server_time":1529196313,"chat":{"last_uts":"_1529196307.593726","next_refresh":5,"messages":{"global":{"1757052":[1430119,"_1529196307.593726",0,0,"Just got <i#4185> from <#F0DFA3>Events<\/color>",1]}}},"hero_locations":[[3,7,0,0],[1,7,0,0],[20,7,0,0],[2,7,0,0],[21,3,0,0],[10,1,0,0]],"heroes_avatars":{"1430119":{"h":["AMANTENECRO",65,"f",437430],"b":[651,375,517,null,691,null,null,737,2,11],"g":["","member"]}},"rewards_popups":{"stage_stars":{"premium":50}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":226,"gold":14509,"premium":610,"guild_id":0}}}

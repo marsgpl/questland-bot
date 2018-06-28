@@ -1,0 +1,47 @@
+premium chest 500 diamonds
+
+POST /chestshop/buy/?rand=triakcik HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 222
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+chestID=705&method=premium&req_id=36&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529203255.202351&time_spent_in_game=22HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:41:54 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"chest_result":[{"belt":[[4009,1],[3423,1],[4349,1],[916,1],[1079,1],[4037,1],[2857,1],[2909,1],[517,1],[288,1],[880,1],[3435,1],[927,1],[305,1],[2873,1],[995,1],[997,1],[2567,1],[503,1],[311,1]],"main":[919,1],"extra":[]}],"server_time":1529203314,"chat":{"last_uts":"_1529203255.202351","next_refresh":30},"event_top_players":[{"kind":"spend_premium","user":{"id":348977,"name":"MOREECE","guild_sname":""}},{"kind":"spin_buy1","user":{"id":776849,"name":"EPIKERNITZ","guild_sname":""}},{"kind":"spin_buy2","user":{"id":1722041,"name":"Y7000","guild_sname":""}}],"event_progresses2":{"spend_premium":1725,"topup_premium":0,"spend_premium_daily":1725,"topup_premium_daily":0,"spin_buy1":1,"spin_buy2":0,"spin_buy3":0,"noob_week":2},"items_list":[{"a":[205,919,1820427,"hero",null,1],"wear":[0,1,0,[0,0,0,0],0,0,0,0,0,0,0,0]}],"rewards_popups":{"chest":{"items":[[919,1]]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":36,"gold":18384,"premium":395,"guild_id":0,"idxp":1835}}}
+
+
+
+premium 200 gems part chest
+
+
+
+POST /chestshop/buy/?rand=ibiyhvtv HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 200
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+chestID=707&method=premium&req_id=42&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529203334.885814HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:43:32 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"chest_result":[{"belt":[[4271,1],[3405,2],[3429,3],[3421,1],[4177,1],[3457,3],[4027,2],[3483,1],[4023,3],[4023,2],[3465,3],[3471,1],[3465,1],[4019,2],[4007,1],[4437,1],[4177,2],[4031,1],[4271,3],[4007,2]],"main":[3409,2],"extra":[]}],"server_time":1529203412,"chat":{"last_uts":"_1529203334.885814","next_refresh":30},"event_top_players":[{"kind":"spend_premium","user":{"id":348977,"name":"MOREECE","guild_sname":""}},{"kind":"spin_buy1","user":{"id":776849,"name":"EPIKERNITZ","guild_sname":""}},{"kind":"spin_buy2","user":{"id":1722041,"name":"Y7000","guild_sname":""}}],"event_progresses2":{"spend_premium":1925,"topup_premium":0,"spend_premium_daily":1925,"topup_premium_daily":0,"spin_buy1":1,"spin_buy2":0,"spin_buy3":0,"noob_week":2},"items_list":[{"a":[206,3409,1820427,"hero",null,2]}],"rewards_popups":{"chest":{"items":[[3409,2]]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":42,"gold":18384,"premium":195,"guild_id":0}}}

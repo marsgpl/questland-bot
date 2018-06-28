@@ -1,0 +1,19 @@
+POST /journey/collect/?rand=kyaofjcd HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 187
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+journeyID=65&req_id=413&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529188575.727094HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 22:36:33 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529188593,"chat":{"last_uts":"_1529188587.009614","next_refresh":5,"messages":{"global":{"1755910":[1415075,"_1529188587.009614",0,0,"Just got <i#3479> from <#F0DFA3>Events<\/color>",1]}}},"journeys_list":[{"id":73,"time":1640,"end":0,"title":"Protect the merchants","completed":false,"current":false,"rewards":{"gold":3080,"items":[[1061,4200],[1413,1],[3833,1]]}},{"id":89,"time":4520,"end":0,"title":"Pillage the trade post","completed":false,"current":false,"rewards":{"gold":3850,"items":[[1061,5250],[1413,1],[3833,1]]}}],"journey_reload":26671,"heroes_avatars":{"1415075":{"h":["DRAHUVERAR",50,"m",157378],"b":[158,228,254,null,283,308,null,210,4,5],"g":["","member"]}},"hero_quests":[[325,3,1,1],[352,1740,0,0],[966,2,1,0]],"items_list":[{"a":[10,1061,1820427,"hero",null,93104],"use":[0]},{"a":[83,1413,1820427,"hero",null,3],"use":[0]},{"a":[7,3833,1820427,"hero",null,27],"use":[0]}],"static_data_crc":"038a917c6af6e635ae63d342ebf8f36f 0","static_details_crc":"c6c3f6f677e176f22c891f7b691e75a3","assets_crc":"61bb020d016206109fdd865bbf188a97","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":413,"gold":40144,"premium":355,"guild_id":0,"dailytasks_points":75,"next_battleevent_tickets_renew":0}}}

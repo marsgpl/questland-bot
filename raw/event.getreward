@@ -1,0 +1,21 @@
+when you spent 2000 gems, you can claim daily reward
+
+POST /events/getreward/?rand=maobknvt HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 218
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+subevent_kind=spend_premium_daily&position=3&req_id=72&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529203674.480907HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:48:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529203687,"chat":{"last_uts":"_1529203674.480907","next_refresh":8},"event_progresses2":{"spend_premium":2125,"topup_premium":0,"spend_premium_daily":2125,"topup_premium_daily":0,"spin_buy1":1,"spin_buy2":0,"spin_buy3":0,"noob_week":2},"items_list":[{"a":[104,4007,1820427,"hero",null,3]},{"a":[63,3405,1820427,"hero",null,3]},{"a":[106,4329,1820427,"hero",null,14]},{"a":[50,4327,1820427,"hero",null,13]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":72,"gold":27009,"premium":45,"guild_id":0}}}

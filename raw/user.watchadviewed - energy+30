@@ -1,0 +1,19 @@
+POST /user/watchadviewed/?rand=ydtuhbjw HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 183
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+req_id=286&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529200777.591569&energy=1HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 02:00:30 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"ok","data":{"server_time":1529200830,"chat":{"last_uts":"_1529200817.456727","next_refresh":8,"messages":{"global":{"1757268":[1577145,"_1529200798.270235",0,0,"Just got <i#4029> from <#F0DFA3>Events<\/color>",1],"1757270":[1561989,"_1529200817.456727",0,0,"Just got <i#4185> from <#F0DFA3>Events<\/color>",1]}}},"heroes_avatars":{"1577145":{"h":["EONIS",65,"m",309566],"b":[165,144,175,null,157,169,null,140,6,1],"g":["","member"]},"1561989":{"h":["CARSOMYR",51,"m",210502],"b":[102,237,175,null,286,169,null,176,4,1],"g":["","member"]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":286,"gold":143,"premium":785,"guild_id":0,"energy":30,"next_energy_renew":0,"energy_watchads_used":1}}}

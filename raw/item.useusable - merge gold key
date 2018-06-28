@@ -1,0 +1,41 @@
+POST /item/useusable/?rand=pcgwdmal HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 185
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+itemID=107&req_id=581&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529189994.256767HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 23:00:32 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529190032,"chat":{"last_uts":"_1529189994.256767","next_refresh":30},"items_list":[{"a":[144,399,1820427,"hero",null,1],"use":[0]},{"a":[107,402,1820427,"hero",null,16],"use":[0]}],"rewards_popups":{"usable":{"items":[[399,1]]}},"static_data_crc":"038a917c6af6e635ae63d342ebf8f36f 0","static_details_crc":"c6c3f6f677e176f22c891f7b691e75a3","assets_crc":"61bb020d016206109fdd865bbf188a97","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":581,"gold":43724,"premium":355,"guild_id":0}}}
+
+eternal key:
+
+POST /item/useusable/?rand=wbassbua HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 206
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+itemID=113&req_id=58&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529197946.725668&time_spent_in_game=30HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 01:14:14 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"ok","data":{"server_time":1529198054,"chat":{"last_uts":"_1529197946.725668","next_refresh":30},"items_list":[{"a":[170,400,1820427,"hero",null,1],"use":[0]},{"a":[113,403,1820427,"deleted",null,0],"use":[0]}],"rewards_popups":{"usable":{"items":[[400,1]]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":58,"gold":7298,"premium":715,"guild_id":0}}}

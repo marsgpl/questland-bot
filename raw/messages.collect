@@ -1,0 +1,9 @@
+POST /messages/collect/?rand=wfzznuaq HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 220
+Connection: keep-alive
+Host: gs-eu2-wrk-03.api-ql.com
+
+messageID=294&req_id=435&lang=en&device=8a90a01b82c7ac8e343f31f2ad1b8365&player_id=117149349254470692354&token=ffa6f7a2d0068d59868c9a073a288320&version=1.10.0.24&client_platform=hd_android&chat_last_uts=1529265590.687168

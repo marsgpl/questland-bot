@@ -1,0 +1,19 @@
+POST /item/putoneventmulslot/?rand=tgrwtsjv HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 205
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+item_id=146&row_no=4&slot_no=2&req_id=172&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529195875.238134HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:38:34 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"server_time":1529195914,"chat":{"last_uts":"_1529195911.529114","next_refresh":5,"messages":{"global":{"1756996":[1830761,"_1529195911.529114",0,0,"Just got <i#4041> from <#F0DFA3>Events<\/color>",1]}}},"hero_battleevent_multiply_slots":{"rows":[{"y":1,"x":1,"i":64,"m":2},{"y":2,"x":2,"i":120,"m":5},{"y":4,"x":2,"i":146,"m":0}],"multiplier":7,"bonuses":[]},"heroes_avatars":{"1830761":{"h":["AOSURA",16,"m",42817],"b":[293,238,250,null,222,117,null,261,0,18]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":172,"gold":13583,"premium":560,"guild_id":0}}}

@@ -1,0 +1,19 @@
+POST /client/wakeup/?rand=ufmazgai HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 197
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+req_id=436&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529188759.922937&time_spent_in_game=207HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 22:40:15 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529188815,"chat":{"last_uts":"_1529188809.169417","next_refresh":5,"messages":{"global":{"1755949":[419039,"_1529188794.545745",0,0,"Just got <i#4029> from <#F0DFA3>Events<\/color>",1],"1755953":[1185401,"_1529188809.169417",0,0,"Just got <i#4175> from <#F0DFA3>Events<\/color>",1]}}},"heroes_avatars":{"419039":{"h":["SCHLOTTI",65,"f",548472],"b":[453,383,355,null,409,null,null,759,6,1],"g":["",""]},"1185401":{"h":["KRAMPUS199",40,"m",125719],"b":[110,236,247,null,157,167,null,149,3,11],"g":["","officer"]}},"static_data_crc":"038a917c6af6e635ae63d342ebf8f36f 0","static_details_crc":"c6c3f6f677e176f22c891f7b691e75a3","assets_crc":"61bb020d016206109fdd865bbf188a97","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":436,"gold":40144,"premium":355,"guild_id":0}}}

@@ -1,0 +1,19 @@
+POST /guild/searchguild/?rand=chqjxsnv HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 283
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+name=noob&country=&req_id=62&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529205057.472897&is_private=0&level=0&req_level=0&req_heropower=0&req_vip=0&not_full=1&time_spent_in_game=9HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 03:11:16 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"guilds_list":[{"id":2961,"name":"bignoobs","sname":"","desc":"activos, donaciones","priv":0,"power":1818186,"country":"ES","req_vip":0,"req_lvl":0,"req_heropower":0,"cnt":18,"mcnt":30,"lvl":1,"exp":162600,"req_sent":0,"req_cnt":null,"donate_in":0,"banner":[3721,3545,3575,3385,3339,3539]},{"id":6517,"name":"Noobs","sname":"","desc":"\u0414\u043e\u0431\u0440\u043e \u043f\u043e\u0436\u0430\u043b\u043e\u0432\u0430\u0442\u044c \u043d\u0443\u0431\u044b. \u0412\u043b\u0438\u0432\u0430\u0435\u043c\u0441\u044f \u0432 \u0438\u0433\u0440\u0443, \u043f\u043e\u0437\u043d\u0430\u0435\u043c \u0430\u0437\u044b \u0438 \u043a\u0430\u0447\u0430\u0435\u043c\u0441\u044f \u0432\u043c\u0435\u0441\u0442\u0435","priv":0,"power":434547,"country":"RU","req_vip":0,"req_lvl":20,"req_heropower":50000,"cnt":5,"mcnt":30,"lvl":1,"exp":26500,"req_sent":0,"req_cnt":null,"donate_in":0,"banner":[3375,3631,3591,3781,3335,3519]},{"id":3391,"name":"TheNoobs","sname":"","desc":"","priv":0,"power":110774,"country":"RO","req_vip":0,"req_lvl":13,"req_heropower":10000,"cnt":2,"mcnt":30,"lvl":1,"exp":2500,"req_sent":0,"req_cnt":null,"donate_in":0,"banner":[3733,3545,3577,3709,3341,3537]}],"guilds_search_indices":[2961,6517,3391],"server_time":1529205076,"chat":{"last_uts":"_1529205057.472897","next_refresh":10},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":62,"gold":52252,"premium":170,"guild_id":0}}}

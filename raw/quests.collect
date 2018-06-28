@@ -1,0 +1,19 @@
+POST /quests/collect/?rand=osfqrzgk HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 186
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+questID=966&req_id=482&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529189164.837467HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 22:46:17 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529189177,"chat":{"last_uts":"_1529189164.837467","next_refresh":8},"hero_quests":[[966,0,1,1],[967,0,0,0]],"items_list":[{"a":[107,402,1820427,"hero",null,31],"use":[0]}],"static_data_crc":"038a917c6af6e635ae63d342ebf8f36f 0","static_details_crc":"c6c3f6f677e176f22c891f7b691e75a3","assets_crc":"61bb020d016206109fdd865bbf188a97","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":482,"gold":43724,"premium":355,"guild_id":0,"exp":6949,"exp_now":5770,"exp_next":6970}}}

@@ -1,0 +1,19 @@
+POST /chestshop/buy/?rand=ldkigtpf HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 217
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+chestID=18&method=key&req_id=62&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529192976.652486&time_spent_in_game=76HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 23:49:57 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"chest_result":[{"belt":[[321,1],[928,1],[866,1],[990,1],[1251,1],[989,1],[832,1],[1256,1],[877,1],[846,1],[851,1],[1311,1],[873,1],[879,1],[1089,1],[347,1],[2407,1],[874,1],[838,1],[320,1]],"main":[839,1],"extra":[]}],"server_time":1529192997,"chat":{"last_uts":"_1529192976.652486","next_refresh":15},"hero_quests":[[1593,4,0,0]],"items_list":[{"a":[153,400,1820427,"deleted",null,0],"use":[0]},{"a":[154,839,1820427,"hero",null,1],"wear":[0,1,0,[0,0,0],0,0,0,0,0,0,0,0]}],"rewards_popups":{"chest":{"items":[[839,1]]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":62,"gold":10624,"premium":360,"guild_id":0,"chest_gold_leg":5,"idxp":1410}}}

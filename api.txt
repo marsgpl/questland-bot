@@ -1,0 +1,13 @@
+http://gs-eu2-wrk-04.api-ql.com/
+
+Symfony 3.4.11
+
+/srv/www/new-apiquestland.gamesture.com/web/
+
+debug mode is enabled
+
+no homepage configured
+
+{ status: 'error',
+  message:
+   'Not found - Entity Gamesture\\Rock\\Questland\\Fast\\Entity\\BattleLocationEntity:0' }

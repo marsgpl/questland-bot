@@ -1,0 +1,19 @@
+POST /crafting/glyphupgrade/?rand=xjtdmhsq HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 204
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+upgradedID=166&to_max_level=0&req_id=294&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529196795.104511HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:55:57 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"glyph_upgrade_bonus":0,"server_time":1529196957,"chat":{"last_uts":"_1529196795.104511","next_refresh":30},"hero":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":294,"gold":47298,"premium":690,"guild_id":0,"level":15,"exp":10044,"exp_now":10020,"exp_next":11790,"name":"REFORGE","sex":"male","class":"warrior","race":"human","attributes":{"dmg":6795,"def":5958,"hp":15950,"magic":6326,"heropower":35029,"damage":{"min":6795,"max":6795},"critval":1.5,"critchance":10,"dodge":5,"skill_power":0},"maxInventoryGlyphs":200,"pvp_league":[0,0],"maxInventorySize":100,"league_fights":3,"next_fightpoints_renew":0,"league_renew_used":0,"league_lost_fights":0,"league_adv_taken":0,"unranked_wins":0,"energy":11,"next_energy_renew":405,"energy_renew_used":1,"energy_buy_used":0,"energy_watchads_used":0,"stamina":20,"next_stamina_renew":0,"stamina_renew_used":0,"vip_status":1,"premium_purchased":0,"so_base":0,"monthlycard_expire":0,"shop1_reloads_done":0,"face":{"ears":null,"eyes":234,"hair":95,"nose":149,"mouth":null,"eyebrows":214,"facialhair":96,"facespecial":94,"hair_color":1,"skin_color":3},"next_stage_autobattle":0,"tutorial_step":23552,"options":1,"ship":4,"journey_reloads_done":0,"journey_watchads_used":2,"next_dailybonus":7443,"dailybonus_taken":2,"dailyquests_reset":7443,"dailytasks_points":85,"dailytasks_taken":63,"next_chest_silver":75977,"next_chest_gold":108793,"chest_gold_leg":5,"chests_event_leg":[0,0,0,0,0,0,0,0,0,0],"chest_event_leg":0,"next_chest_bronze":7443,"bronze_chest_limit":0,"next_chests_event":[0,0,1529269297,0,0,0,1529196957,0,0,0],"next_chest_event":-1,"battle_x10_used":0,"watch_ads_viewed":2,"free_normal_spins":0,"free_event_5spins":[1,0,1,0,0],"mul_event_5spins":[0,0,0,0,0],"free_event_spins":0,"premium_normal_spins":3,"spin_watchads_used":1,"lang":"en","collection1":{"unlocked_slots":1,"slots_upg":[10,10,10,10,10,10,10,10,10,10]},"collection2":{"unlocked_slots":0,"slots_upg":[10,10,10,10,10,10,10,10,10,10]},"ch_boss_energy":3,"bank_watchads_used":1,"special_offer_old":1,"sex_changes":2,"nick_changes":2,"idxp":1540,"next_battleevent_tickets_renew":0,"guild_treasure_bits":0,"fame_pts":0,"fame_lvl":1,"guild_sname":"","ars":[{"id":1,"expire":0,"platform":"ios"},{"id":2,"expire":0,"platform":"ios"},{"id":3,"expire":0,"platform":"ios"}],"secret_code":"9w44jmsfd","secret_codes_byme":0},"hero_quests":[[27,1,0,0],[568,2,0,0]],"items_list":[{"a":[166,684,1820427,"hero",null,1],"orb":["off_hand",2,0,0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36"}}

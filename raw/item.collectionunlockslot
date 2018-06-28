@@ -1,0 +1,19 @@
+POST /item/collectionunlockslot/?rand=huyuejae HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 211
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+req_id=49&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529192867.146444&collectionNO=2&time_spent_in_game=289HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 23:48:45 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"server_time":1529192925,"chat":{"last_uts":"_1529192918.986086","next_refresh":5,"messages":{"global":{"1756595":[78771,"_1529192913.383008",0,0,"Just got <i#3431> from <#F0DFA3>Iceberg & Hellgate Key<\/color>",1],"1756596":[1020075,"_1529192917.557806",0,0,"Just got <i#4555> from <#F0DFA3>CHALLENGE CRAFT<\/color>",1],"1756597":[1399447,"_1529192918.986086",0,0,"Just got <i#3415> from <#F0DFA3>Event Chest Key<\/color>",1]}}},"heroes_avatars":{"78771":{"h":["GYURMA",65,"m",417435],"b":[102,237,257,null,217,320,null,136,4,9],"g":["",""]},"1020075":{"h":["RIPERCRASH",65,"f",294224],"b":[639,359,515,null,707,null,null,735,3,13],"g":["","member"]},"1399447":{"h":["DYLHAND",65,"m",253263],"b":[224,192,146,null,285,118,null,141,10,2],"g":["","member"]}},"items_list":[{"a":[20,898,1820427,"hero",null,2],"use":[0]}],"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":49,"gold":10624,"premium":360,"guild_id":0,"collection1":{"unlocked_slots":1,"slots_upg":[10,10,10,10,10,10,10,10,10,10]},"collection2":{"unlocked_slots":0,"slots_upg":[10,10,10,10,10,10,10,10,10,10]}}}}

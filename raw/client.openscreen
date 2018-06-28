@@ -1,0 +1,19 @@
+POST /client/openscreen/?rand=rwtfnjgp HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 209
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+type=events_new&req_id=8&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529194405.058349&time_spent_in_game=3HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sun, 17 Jun 2018 00:13:32 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"server_time":1529194412,"chat":{"last_uts":"_1529194408.207876","next_refresh":5,"messages":{"global":{"1756795":[621881,"_1529194408.207876",0,0,"Just got <i#4345> from <#F0DFA3>Events<\/color>",1]}}},"event_top_players":[{"kind":"spend_premium","user":{"id":348977,"name":"MOREECE","guild_sname":""}},{"kind":"spin_buy1","user":{"id":776849,"name":"EPIKERNITZ","guild_sname":""}},{"kind":"spin_buy2","user":{"id":1722041,"name":"Y7000","guild_sname":""}}],"heroes_avatars":{"621881":{"h":["DINDI",65,"f",555653],"b":[663,359,347,null,409,96,null,389,8,11],"g":["","officer"]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":8,"gold":8229,"premium":560,"guild_id":0}}}

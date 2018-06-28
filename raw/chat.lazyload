@@ -1,0 +1,19 @@
+POST /chat/lazyload/?rand=xukzgcvk HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 222
+Connection: keep-alive
+Host: gs-eu2-wrk-04.api-ql.com
+
+kind=private&from_uts=0&req_id=131&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529193558.12875&target_id=1196833&dir=-1HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 16 Jun 2018 23:59:27 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"ok","data":{"debug_elapsed":"5.96ms","server_time":1529193567,"chat":{"last_uts":"_1529193565.609565","next_refresh":5,"messages":{"global":{"1756683":[613017,"_1529193565.609565",0,0,"Just got <i#4555> from <#F0DFA3>CHALLENGE CRAFT<\/color>",1]}}},"heroes_avatars":{"613017":{"h":["EVION",65,"m",380555],"b":[164,191,251,null,94,169,null,136,3,1],"g":["","officer"]}},"static_data_crc":"5a680289e61c04db0bcac0e382bfa4ee 0","static_details_crc":"ab2bd8ea5586c1f574f2b9d81f0e0750","assets_crc":"819712239e1c24ad23086dd7cdef4d36","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":131,"gold":8229,"premium":410,"guild_id":0}}}
