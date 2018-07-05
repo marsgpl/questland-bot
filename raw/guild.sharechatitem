@@ -1,0 +1,19 @@
+POST /guild/sharechatitem/?rand=ubuuhhne HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 215
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+tpl_id=1265&source=eternal_chest&req_id=54&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1530299971.961316&amount=1HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Fri, 29 Jun 2018 19:19:48 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"chat_sendmessage_status":"ok","server_time":1530299988,"chat":{"last_uts":"_1530299988.628055","next_refresh":10,"messages":{"guild":{"2002753":[1820427,"_1530299988.628055",0,0,"Just got <i#1265> from <#F0DFA3>Eternal Chest<\/color>",1]}}},"heroes_avatars":{"1820427":{"h":["REFORGE",21,"m",70365],"b":[95,234,214,null,94,96,null,149,3,1],"g":["","owner"]}},"static_data_crc":"2396abc6adffaf92a4e7c55b6642dbd3 0","static_details_crc":"9625eff06944bb07d0606c0791f9f86f","assets_crc":"7a3cc1205e7c5fa231d6bbe7142ba17e","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":54,"gold":263612,"premium":389,"guild_id":10883}}}

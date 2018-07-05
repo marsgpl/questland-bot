@@ -1,0 +1,19 @@
+POST /guild/treasuredonate/?rand=atuyaxfn HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 186
+Connection: keep-alive
+Host: gs-eu2-wrk-02.api-ql.com
+
+req_id=186&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1530364877.173606&donate_no=2HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 30 Jun 2018 13:21:18 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"ok","data":{"guild_treasure_donate_status":"ok","server_time":1530364878,"chat":{"last_uts":"_1530364877.173606","next_refresh":5},"event_top_players":[{"kind":"spend_premium","user":{"id":348977,"name":"MOREECE","guild_sname":""}},{"kind":"spin_buy1","user":{"id":1470109,"name":"PARADISIAK","guild_sname":""}},{"kind":"spin_buy2","user":{"id":1617499,"name":"KIRIAMA01","guild_sname":""}}],"guilds_list":[{"id":10883,"name":"Reforgy","sname":"","desc":"Daily reforgies","priv":1,"power":71772,"country":"european-union","req_vip":0,"req_lvl":0,"req_heropower":0,"cnt":1,"mcnt":30,"lvl":1,"exp":6000,"req_sent":0,"req_cnt":0,"donate_in":0,"banner":[3737,3637,3589,3387,3287,3521],"owner_active":true,"members":[{"hero_id":1820427,"name":"REFORGE","level":21,"power":71772,"score":null,"body":[95,234,214,null,94,96,null,149,3,1],"onbody_items":[],"attr":[],"guild_sname":"","guild_rank":"owner","last_act":1530364852,"flvl":1}],"academy":{},"join_requests":[],"collected_banners":[]}],"event_progresses2":{"spend_premium":1660,"topup_premium":0,"spend_premium_daily":1110,"topup_premium_daily":0,"spin_buy1":0,"spin_buy2":2,"spin_buy3":0},"items_list":[{"a":[307,3915,1820427,"hero",null,290],"use":[0]}],"rewards_popups":{"guild_donate":{"items":[[3917,1500],[3915,70],[3919,1500]]}},"static_data_crc":"2f15dad17bfdfa2781e3425f8e168c74 0","static_details_crc":"e7abea410f25fa78a6c94c55fa4b1ca5","assets_crc":"a51780ac052166d6a85d8b45893a82d4","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":186,"gold":334487,"premium":104,"guild_id":10883,"guild_treasure_bits":3,"fame_pts":6000}}}

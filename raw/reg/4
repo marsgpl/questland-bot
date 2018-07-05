@@ -1,0 +1,5 @@
+/user/checkname/
+
+name=GAMBLER&req_id=10&lang=en&device=7bbfa7f36be5361615d4cb1fcd96752e&token=b569691bd3691ce88e4ae849b51388a7&version=1.10.1.27&client_platform=sd_android&chat_last_uts=0&time_spent_in_game=336
+
+{"status":"ok","data":{"name_error":"This name is already used."}}

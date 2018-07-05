@@ -1,0 +1,5 @@
+/user/createuser/
+
+name=CANADA&sex=male&req_id=20&lang=en&device=7bbfa7f36be5361615d4cb1fcd96752e&token=b569691bd3691ce88e4ae849b51388a7&version=1.10.1.27&client_platform=sd_android&chat_last_uts=0&body_eyes=194&body_hair=164&body_nose=263&body_mouth=0&body_eyebrows=214&body_facialhair=315&body_facespecial=219&skin_color=5&hair_color=11
+
+{"status":"ok","data":{"hero_id":1902401}}

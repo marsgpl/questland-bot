@@ -1,0 +1,19 @@
+POST /battle/battleend/?rand=xqfeuevi HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 327
+Connection: keep-alive
+Host: gs-eu2-wrk-02.api-ql.com
+
+locationID=3&stageNO=1&mode=normal&battleResult=win&difficulty=normal&battleLog=0-1.0-1.0-1.0-1.1-1.0-1.0-1.0-2.0-2.&req_id=40&lang=en&device=7bbfa7f36be5361615d4cb1fcd96752e&token=b569691bd3691ce88e4ae849b51388a7&version=1.10.1.27&tutorial_step=34&client_platform=sd_android&chat_last_uts=1530390769.827838&turnsDone=9&stars=3HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Sat, 30 Jun 2018 20:32:59 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"ok","data":{"server_time":1530390779,"chat":{"last_uts":"_1530390769.827838","next_refresh":5},"hero_quests":[[1,0,0,0],[323,1,0,0],[324,0,0,0],[325,0,0,0],[361,0,0,0],[391,0,0,0],[455,0,0,0],[477,0,0,0],[505,0,0,0],[544,0,0,0],[575,0,0,0],[735,0,0,0],[1515,0,0,0],[1705,0,0,0],[1779,0,0,0],[1,1,1,0],[1705,3,0,0]],"hero_stages":[{"id":1,"loc_id":3,"a":[1,0,0,1,0,0,0,0,0,1,0,0,3,0,0]},{"id":2,"loc_id":3,"a":[0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]}],"items_list":[{"a":[11,1061,1902401,"hero",null,500],"use":[0]},{"a":[7,3833,1902401,"hero",null,31],"use":[335]}],"static_data_crc":"0a0b4cef4818c8f1ab3745a4e4e9e541 0","static_details_crc":"1ec69ec9502d9099e26c7c62b54e1642","assets_crc":"e474f4afd8ccc69154315cc02944059d","hero2":{"id":1902401,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":40,"gold":144,"premium":10,"guild_id":0,"exp":30,"exp_now":0,"exp_next":100,"tutorial_step":34,"next_battleevent_tickets_renew":0}}}

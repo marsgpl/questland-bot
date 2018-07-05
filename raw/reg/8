@@ -1,0 +1,5 @@
+/chat/void/
+
+req_id=2&lang=en&device=7bbfa7f36be5361615d4cb1fcd96752e&token=b569691bd3691ce88e4ae849b51388a7&version=1.10.1.27&client_platform=sd_android&chat_last_uts=1530390491.409871
+
+{"status":"ok","data":{"server_time":1530390504,"chat":{"last_uts":"_1530390491.409871","next_refresh":8},"static_data_crc":"0a0b4cef4818c8f1ab3745a4e4e9e541 0","static_details_crc":"1ec69ec9502d9099e26c7c62b54e1642","assets_crc":"e474f4afd8ccc69154315cc02944059d","hero2":{"id":1902401,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":2,"gold":100,"premium":10,"guild_id":0}}}

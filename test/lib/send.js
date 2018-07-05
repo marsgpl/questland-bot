@@ -39,7 +39,7 @@ module.exports = async function(conf) {
     extern(conf, auth)
 
     conf.body.chat_last_uts = String(Date.now() / 1000) + String(rand(100,999))
-    conf.body.req_id = Math.floor(Date.now() / 1000)
+    conf.body.req_id = conf.body.req_id || Math.floor(Date.now() / 1000)
     conf.body.time_spent_in_game = rand(1,100)
 
     let url = "http://" + conf.host + conf.url + "?rand=" + randomString(8)

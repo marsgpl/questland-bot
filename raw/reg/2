@@ -1,0 +1,5 @@
+/user/setdeviceinfo/
+
+phone_model=unknown%20Android%20SDK%20built%20for%20x86_64&os_version=Android%20OS%207.0%20%2f%20API-24%20(NYC%2f4729343)&platform=android&graphics_quality=sd&country_code=US&language_code=en&req_id=5&lang=en&device=7bbfa7f36be5361615d4cb1fcd96752e&token=b569691bd3691ce88e4ae849b51388a7&version=1.10.1.27&client_platform=sd_android&chat_last_uts=0&is_legal_apk=1&gdpr=0
+
+{"status":"ok","data":{"server_time":1530389634}}
