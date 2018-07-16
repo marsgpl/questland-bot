@@ -1,0 +1,4818 @@
+1:7	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:7"[0m
+1:6	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:6"[0m
+1:2	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:2"[0m
+1:1	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:1"[0m
+1:27	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:27"[0m
+1:9	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:9"[0m
+2:94	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:94"[0m
+3:3	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:3"[0m
+1:8	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:8"[0m
+2:74	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:74"[0m
+3:1	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:1"[0m
+3:86	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:86"[0m
+1:4	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:4"[0m
+1:18	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:18"[0m
+4:11	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:11"[0m
+1:10	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:10"[0m
+1:25	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:25"[0m
+3:61	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:61"[0m
+1:54	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:54"[0m
+1:51	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:51"[0m
+2:44	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:44"[0m
+2:28	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:28"[0m
+1:39	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:39"[0m
+1:53	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:53"[0m
+1:19	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:19"[0m
+1:58	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:58"[0m
+1:11	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:11"[0m
+1:43	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:43"[0m
+1:45	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:45"[0m
+1:21	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:21"[0m
+1:24	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:24"[0m
+1:17	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:17"[0m
+1:55	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:55"[0m
+1:15	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:15"[0m
+1:36	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:36"[0m
+1:41	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:41"[0m
+1:34	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:34"[0m
+1:38	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:38"[0m
+1:26	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:26"[0m
+1:14	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:14"[0m
+1:44	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:44"[0m
+1:40	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:40"[0m
+1:28	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:28"[0m
+1:47	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:47"[0m
+1:29	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:29"[0m
+1:3	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:3"[0m
+1:22	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:22"[0m
+1:33	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:33"[0m
+1:42	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:42"[0m
+1:12	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:12"[0m
+1:32	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:32"[0m
+1:71	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:71"[0m
+1:13	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:13"[0m
+1:46	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:46"[0m
+1:37	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:37"[0m
+1:73	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:73"[0m
+1:30	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:30"[0m
+1:63	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:63"[0m
+1:59	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:59"[0m
+1:35	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:35"[0m
+1:16	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:16"[0m
+1:60	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:60"[0m
+1:23	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:23"[0m
+1:66	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:66"[0m
+1:31	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:31"[0m
+1:56	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:56"[0m
+1:20	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:20"[0m
+1:79	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:79"[0m
+1:70	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:70"[0m
+1:68	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:68"[0m
+1:49	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:49"[0m
+1:50	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:50"[0m
+1:52	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:52"[0m
+1:48	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:48"[0m
+1:64	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:64"[0m
+1:82	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:82"[0m
+1:81	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:81"[0m
+1:57	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:57"[0m
+1:76	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:76"[0m
+1:62	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:62"[0m
+1:77	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:77"[0m
+1:78	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:78"[0m
+1:67	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:67"[0m
+1:74	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:74"[0m
+1:5	HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"ok","data":{"server_time":1531418046,"chat":{"last_uts":"_1531417961.113234","next_refresh":30,"messages":{"global":{"2260827":[1362307,"_1531417326.251975",0,0,"Just got <i#2817> from <#F0DFA3>TOP-UP FRENZY<\/color>",1],"2260829":[1941757,"_1531417331.196288",0,0,"Just got <i#4009> from <#F0DFA3>Events<\/color>",1],"2260831":[667379,"_1531417333.380558",0,0,"Just got <i#4181> from <#F0DFA3>Events<\/color>",1],"2260832":[1922367,"_1531417335.014281",0,0,"Just got <i#4181> from <#F0DFA3>Events<\/color>",1],"2260844":[1922367,"_1531417384.682511",0,0,"Just got <i#4373> from <#F0DFA3>Events<\/color>",1],"2260848":[1362307,"_1531417396.176545",0,0,"Just got <i#3895> from <#F0DFA3>Events<\/color>",1],"2260856":[1922367,"_1531417414.354885",0,0,"Just got <i#4037> from <#F0DFA3>Events<\/color>",1],"2260859":[1942811,"_1531417417.512126",0,0,"Just got <i#4025> from <#F0DFA3>Events<\/color>",1],"2260865":[1922367,"_1531417426.080399",0,0,"Just got <i#4273> from <#F0DFA3>Events<\/color>",1],"2260872":[1792477,"_1531417442.911825",0,0,"Just got <i#3443> from <#F0DFA3>Events<\/color>",1],"2260882":[1192163,"_1531417475.304869",0,0,"Just got <i#4185> from <#F0DFA3>Events<\/color>",1],"22
+[0;31m"onhup"[0m
+[0;31m"1:5"[0m
+1:100	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:100"[0m
+1:69	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:69"[0m
+1:80	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:80"[0m
+1:65	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:65"[0m
+1:61	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:61"[0m
+1:75	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:75"[0m
+1:72	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:06 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:72"[0m
+1:99	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:99"[0m
+1:91	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:91"[0m
+1:83	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:83"[0m
+1:97	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:97"[0m
+2:37	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:37"[0m
+1:96	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:96"[0m
+1:93	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:93"[0m
+1:89	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:89"[0m
+1:88	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:88"[0m
+1:94	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:94"[0m
+2:10	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:10"[0m
+2:29	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:29"[0m
+1:86	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:86"[0m
+1:98	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:98"[0m
+1:95	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:95"[0m
+1:84	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:84"[0m
+1:85	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:85"[0m
+1:92	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:92"[0m
+1:87	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:87"[0m
+2:40	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:40"[0m
+2:6	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:6"[0m
+4:99	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:99"[0m
+2:31	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:31"[0m
+2:22	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:22"[0m
+4:88	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:88"[0m
+4:91	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:91"[0m
+4:85	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:85"[0m
+4:89	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:89"[0m
+4:96	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:96"[0m
+4:94	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:94"[0m
+2:14	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:14"[0m
+4:68	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:68"[0m
+1:90	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-01; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"1:90"[0m
+3:17	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:17"[0m
+2:5	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:5"[0m
+2:1	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:1"[0m
+2:43	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:43"[0m
+4:81	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:81"[0m
+4:92	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:92"[0m
+2:2	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:2"[0m
+4:79	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:79"[0m
+2:24	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:24"[0m
+4:86	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:86"[0m
+4:82	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:82"[0m
+2:13	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:13"[0m
+4:63	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:63"[0m
+4:90	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:90"[0m
+3:56	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:56"[0m
+4:73	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:73"[0m
+4:87	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:87"[0m
+4:72	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:72"[0m
+3:92	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:92"[0m
+4:76	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:76"[0m
+4:74	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:74"[0m
+4:100	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:100"[0m
+4:95	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:95"[0m
+4:75	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:75"[0m
+4:71	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:71"[0m
+4:98	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:98"[0m
+4:66	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:66"[0m
+4:80	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:80"[0m
+4:67	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:67"[0m
+4:69	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:69"[0m
+4:70	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:70"[0m
+4:62	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:62"[0m
+2:21	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:21"[0m
+4:93	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:93"[0m
+2:9	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:9"[0m
+4:64	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:64"[0m
+4:77	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:77"[0m
+4:97	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:97"[0m
+2:25	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:25"[0m
+2:35	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:35"[0m
+2:7	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:7"[0m
+2:39	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:39"[0m
+2:27	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:27"[0m
+2:38	HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"ok","data":{"server_time":1531418047,"chat":{"last_uts":"_1531417961.113234","next_refresh":30,"messages":{"global":{"2260827":[1362307,"_1531417326.251975",0,0,"Just got <i#2817> from <#F0DFA3>TOP-UP FRENZY<\/color>",1],"2260829":[1941757,"_1531417331.196288",0,0,"Just got <i#4009> from <#F0DFA3>Events<\/color>",1],"2260831":[667379,"_1531417333.380558",0,0,"Just got <i#4181> from <#F0DFA3>Events<\/color>",1],"2260832":[1922367,"_1531417335.014281",0,0,"Just got <i#4181> from <#F0DFA3>Events<\/color>",1],"2260844":[1922367,"_1531417384.682511",0,0,"Just got <i#4373> from <#F0DFA3>Events<\/color>",1],"2260848":[1362307,"_1531417396.176545",0,0,"Just got <i#3895> from <#F0DFA3>Events<\/color>",1],"2260856":[1922367,"_1531417414.354885",0,0,"Just got <i#4037> from <#F0DFA3>Events<\/color>",1],"2260859":[1942811,"_1531417417.512126",0,0,"Just got <i#4025> from <#F0DFA3>Events<\/color>",1],"2260865":[1922367,"_1531417426.080399",0,0,"Just got <i#4273> from <#F0DFA3>Events<\/color>",1],"2260872":[1792477,"_1531417442.911825",0,0,"Just got <i#3443> from <#F0DFA3>Events<\/color>",1],"2260882":[1192163,"_1531417475.304869",0,0,"Just got <i#4185> from <#F0DFA3>Events<\/color>",1],"22
+[0;31m"onhup"[0m
+[0;31m"2:38"[0m
+2:11	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:11"[0m
+2:19	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:19"[0m
+4:83	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:83"[0m
+2:18	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:18"[0m
+2:26	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:26"[0m
+4:48	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:48"[0m
+2:12	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:12"[0m
+2:36	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:36"[0m
+4:65	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:65"[0m
+2:33	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:33"[0m
+4:84	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:84"[0m
+2:4	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:4"[0m
+2:20	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:20"[0m
+2:16	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:16"[0m
+2:41	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:41"[0m
+2:15	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:15"[0m
+2:3	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:3"[0m
+2:8	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:8"[0m
+2:17	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:17"[0m
+2:34	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:34"[0m
+2:30	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:30"[0m
+2:32	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:32"[0m
+2:42	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:42"[0m
+4:78	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:78"[0m
+4:27	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:27"[0m
+2:23	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:07 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:23"[0m
+4:1	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:1"[0m
+2:45	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:45"[0m
+3:6	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:6"[0m
+3:2	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:2"[0m
+3:80	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:80"[0m
+4:50	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:50"[0m
+4:14	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:14"[0m
+2:54	HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Watchads premium daily limit reached"}
+[0;31m"onhup"[0m
+[0;31m"2:54"[0m
+2:65	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:65"[0m
+3:18	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:18"[0m
+3:27	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:27"[0m
+2:56	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:56"[0m
+2:68	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:68"[0m
+3:4	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:4"[0m
+3:5	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:5"[0m
+3:24	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:24"[0m
+3:13	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:13"[0m
+3:20	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:20"[0m
+[0;31m"onhup"[0m
+[0;31m"3:20"[0m
+3:19	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:19"[0m
+2:73	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:73"[0m
+3:8	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:8"[0m
+3:10	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:10"[0m
+2:55	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:55"[0m
+3:15	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:15"[0m
+2:49	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:49"[0m
+3:29	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:29"[0m
+3:37	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:37"[0m
+3:90	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:90"[0m
+3:23	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:23"[0m
+2:67	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:67"[0m
+2:75	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:75"[0m
+3:16	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:16"[0m
+3:25	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:25"[0m
+[0;31m"onhup"[0m
+[0;31m"3:25"[0m
+2:57	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:57"[0m
+3:7	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:7"[0m
+2:90	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:90"[0m
+2:78	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:78"[0m
+2:100	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:100"[0m
+3:11	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:11"[0m
+3:12	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:12"[0m
+[0;31m"onhup"[0m
+[0;31m"3:12"[0m
+2:63	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:63"[0m
+2:76	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:76"[0m
+3:9	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:9"[0m
+3:73	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:73"[0m
+3:14	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:14"[0m
+2:71	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:71"[0m
+2:79	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:79"[0m
+2:58	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:58"[0m
+3:26	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:26"[0m
+2:91	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:91"[0m
+2:51	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:51"[0m
+2:77	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:77"[0m
+2:48	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:48"[0m
+2:61	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:61"[0m
+3:22	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:22"[0m
+2:84	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:84"[0m
+2:46	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:46"[0m
+2:50	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:50"[0m
+[0;31m"onhup"[0m
+[0;31m"2:50"[0m
+2:70	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:70"[0m
+2:53	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:53"[0m
+2:64	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:64"[0m
+2:96	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:96"[0m
+2:86	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:86"[0m
+2:97	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:97"[0m
+2:87	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:87"[0m
+2:72	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:72"[0m
+2:59	HTTP/1.1 500 Internal Server Error
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Watchads premium daily limit reached"}
+[0;31m"onhup"[0m
+[0;31m"2:59"[0m
+2:95	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:95"[0m
+2:89	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:89"[0m
+2:82	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:82"[0m
+2:81	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+2:98	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:98"[0m
+[0;31m"onhup"[0m
+[0;31m"2:81"[0m
+2:99	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:99"[0m
+2:62	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:62"[0m
+2:93	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:93"[0m
+2:47	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:47"[0m
+2:80	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:80"[0m
+2:83	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:83"[0m
+[0;31m"onhup"[0m
+[0;31m"2:83"[0m
+3:21	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:21"[0m
+2:92	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:92"[0m
+3:58	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:58"[0m
+2:88	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:88"[0m
+2:85	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:85"[0m
+2:60	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:60"[0m
+2:69	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:69"[0m
+2:52	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:52"[0m
+2:66	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:09 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-02; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"2:66"[0m
+4:51	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:51"[0m
+3:35	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:35"[0m
+3:99	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:99"[0m
+4:58	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:58"[0m
+3:95	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:95"[0m
+4:41	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:41"[0m
+4:35	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:35"[0m
+4:60	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:60"[0m
+4:59	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:59"[0m
+4:49	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:49"[0m
+4:54	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:54"[0m
+4:15	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:15"[0m
+4:37	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:37"[0m
+4:38	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:38"[0m
+4:32	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:32"[0m
+4:42	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:42"[0m
+4:39	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:39"[0m
+4:23	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:23"[0m
+3:97	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:97"[0m
+[0;31m"onhup"[0m
+[0;31m"3:97"[0m
+4:61	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:61"[0m
+4:33	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:33"[0m
+4:56	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:56"[0m
+4:21	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:21"[0m
+4:31	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:31"[0m
+4:26	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:26"[0m
+4:19	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:19"[0m
+4:47	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:47"[0m
+3:93	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:93"[0m
+3:87	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:87"[0m
+3:91	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:91"[0m
+4:46	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:46"[0m
+4:12	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:12"[0m
+4:34	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:34"[0m
+3:84	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:84"[0m
+4:43	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:43"[0m
+4:36	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:36"[0m
+4:2	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:2"[0m
+4:55	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:55"[0m
+3:77	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:77"[0m
+4:17	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:17"[0m
+3:96	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:96"[0m
+4:45	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:45"[0m
+4:16	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:16"[0m
+3:98	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:98"[0m
+4:30	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:30"[0m
+4:53	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:53"[0m
+4:44	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:44"[0m
+4:10	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:10"[0m
+4:57	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:57"[0m
+3:83	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:83"[0m
+4:28	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:28"[0m
+3:88	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:88"[0m
+4:29	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:29"[0m
+3:100	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:100"[0m
+4:3	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:3"[0m
+4:40	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:40"[0m
+4:52	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:52"[0m
+3:30	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:30"[0m
+4:13	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:13"[0m
+3:85	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:85"[0m
+3:79	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:79"[0m
+3:82	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:82"[0m
+3:94	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:94"[0m
+4:25	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:25"[0m
+4:18	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:18"[0m
+4:7	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:7"[0m
+4:9	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:9"[0m
+4:5	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:5"[0m
+4:22	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:22"[0m
+4:6	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:6"[0m
+4:4	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:4"[0m
+4:20	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:20"[0m
+4:24	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:24"[0m
+3:89	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:89"[0m
+4:8	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:13 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-04; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"4:8"[0m
+[0;31m"ontimeout"[0m
+3:33	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:33"[0m
+3:41	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:41"[0m
+3:47	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:47"[0m
+3:34	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:34"[0m
+3:28	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:28"[0m
+3:72	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:72"[0m
+3:42	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:42"[0m
+3:48	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:48"[0m
+3:51	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:51"[0m
+3:36	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:36"[0m
+3:60	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:60"[0m
+3:68	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:68"[0m
+3:67	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:67"[0m
+3:45	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:45"[0m
+3:38	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:38"[0m
+3:32	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:32"[0m
+3:59	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:59"[0m
+3:44	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:44"[0m
+3:66	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:66"[0m
+3:40	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:40"[0m
+3:81	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:81"[0m
+3:31	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:31"[0m
+3:70	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:70"[0m
+3:75	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:75"[0m
+3:53	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:53"[0m
+3:78	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:78"[0m
+3:74	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:74"[0m
+3:52	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:52"[0m
+3:57	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:57"[0m
+3:65	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:65"[0m
+3:49	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:49"[0m
+3:39	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:39"[0m
+3:46	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:46"[0m
+3:50	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:50"[0m
+3:54	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:54"[0m
+3:62	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:62"[0m
+3:69	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:69"[0m
+3:76	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:76"[0m
+3:43	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:43"[0m
+3:55	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:55"[0m
+3:63	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:63"[0m
+3:64	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:64"[0m
+3:71	HTTP/1.1 409 Conflict
+Content-Type: application/json
+Connection: close
+Cache-Control: private, must-revalidate
+Date: Thu, 12 Jul 2018 17:54:21 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-03; path=/
+
+{"status":"error","message":"Entity Gamesture\\Rock\\Questland\\Fast\\Hero:1820427 mutex found"}
+[0;31m"onhup"[0m
+[0;31m"3:71"[0m
+[0;31m"ontimeout"[0m
+[0;31m"ontimeout"[0m
+[0;31m"ontimeout"[0m

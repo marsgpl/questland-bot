@@ -6,9 +6,9 @@
     //~ questlanddc: "eu2",
     //~ body: {
         //~ lang: "en",
-        //~ device: "70483e32484f7722a533502789d8c41b",
+        //~ device: "1f73f46e2f4a618dd787dae225a01053",
         //~ token: "b305f99a4baa9330cc50cc82cb7ba402",
-        //~ version: "1.10.0.24",
+        //~ version: "1.10.2.13",
         //~ client_platform: "sd_android",
     //~ },
 //~ }
@@ -22,7 +22,7 @@ module.exports = {
         device: "8a90a01b82c7ac8e343f31f2ad1b8365",
         player_id: "117149349254470692354",
         token: "ffa6f7a2d0068d59868c9a073a288320",
-        version: "1.10.2.13",
+        version: "1.10.3.8",
         client_platform: "hd_android",
     },
 }
