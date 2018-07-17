@@ -35,8 +35,8 @@ let extern = function(base, data) {
     }
 }
 
-module.exports = async function(conf) {
-    extern(conf, auth)
+module.exports = async function(conf, customAuth) {
+    extern(conf, customAuth || auth)
 
     conf.body.chat_last_uts = String(Date.now() / 1000) + String(rand(100,999))
     conf.body.req_id = conf.body.req_id || Math.floor(Date.now() / 1000)
