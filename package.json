@@ -8,6 +8,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "md5": "^2.2.1",
     "node-fetch": "^2.1.2"
   }
 }
