@@ -1,0 +1,21 @@
+POST /chat/sendmessage/?rand=fxdtfvaw HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 231
+Connection: keep-alive
+Host: gs-eu2-wrk-05.api-ql.com
+
+kind=private&msg=hi&req_id=37&lang=en&device=1f73f46e2f4a618dd787dae225a01053&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.3.8&client_platform=sd_android&chat_last_uts=1531869065.713087&target_id=795667&time_spent_in_game=37
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Date: Tue, 17 Jul 2018 23:11:31 GMT
+pragma: no-cache
+expires: -1
+Set-Cookie: worker=gs-eu2-wrk-05; path=/
+
+{"status":"ok","data":{"chat_sendmessage_status":"ok","debug_elapsed":"12.41ms","server_time":1531869091,"chat":{"last_uts":"_1531869091.150464","next_refresh":15,"messages":{"private":{"795667":{"2355955":[1820427,"_1531869091.150464",0,0,"hi",0]}}},"private_contacts":[[795667,"_1531869091.150464",1,"hi"]]},"heroes_avatars":{"795667":{"h":["HBI",29,"m",78005],"b":[266,192,174,null,220,168,null,137,4,1]},"1820427":{"h":["REFORGE",22,"m",78009],"b":[163,229,243,null,219,297,null,185,11,0],"g":["","owner"]}},"static_data_crc":"de3c58c0db22d0ba949c63a7805523b4 0","static_details_crc":"b524e816d6983e280fd4aabda7a386c1","assets_crc":"2a3ad7853c88f34224bc40c9456a55e2","hero2":{"id":1820427,"is_event":1,"secret_codes_byothers":0,"unread_messages":0,"req_id":37,"gold":614926,"premium":14,"guild_id":10883}}}

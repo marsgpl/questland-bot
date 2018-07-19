@@ -1,0 +1,37 @@
+female:
+
+POST /user/changesex/?rand=agauxohl HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 302
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+productIDs%5b%5d=327&productIDs%5b%5d=359&productIDs%5b%5d=347&productIDs%5b%5d=389&productIDs%5b%5d=409&skinColor=0&hairColor=0&req_id=812&lang=en&device=1f73f46e2f4a618dd787dae225a01053&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.3.8&client_platform=sd_android&chat_last_uts=1531879148.829932
+
+male:
+
+POST /user/changesex/?rand=ojicbpas HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 321
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+productIDs%5b%5d=95&productIDs%5b%5d=190&productIDs%5b%5d=214&productIDs%5b%5d=149&productIDs%5b%5d=94&productIDs%5b%5d=304&skinColor=0&hairColor=0&req_id=837&lang=en&device=1f73f46e2f4a618dd787dae225a01053&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.3.8&client_platform=sd_android&chat_last_uts=1531879530.992634
+
+
+
+
+
+POST /barbershop/buymulti/?rand=emylqauq HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+questlanddc: eu2
+Content-Length: 342
+Connection: keep-alive
+Host: gs-eu2-wrk-01.api-ql.com
+
+productIDs%5b%5d=95&productIDs%5b%5d=190&productIDs%5b%5d=214&productIDs%5b%5d=149&productIDs%5b%5d=94&productIDs%5b%5d=96&skinColor=0&hairColor=0&req_id=843&lang=en&device=1f73f46e2f4a618dd787dae225a01053&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.3.8&client_platform=sd_android&chat_last_uts=1531879551.052402&time_spent_in_game=27
