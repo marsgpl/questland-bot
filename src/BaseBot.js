@@ -11,10 +11,6 @@ const BARBER_FEMALE = require("./const/barber.female")
 const RANDOM_STRING_POSSIBLE_CHARS = "abcdefghijklmnopqrstuvwxyz"
 
 module.exports = class {
-    constructor() {
-        this.initBarber()
-    }
-
     auth(botName) {
         this.name = botName
 
@@ -138,6 +134,8 @@ module.exports = class {
     }
 
     initBarber() {
+        if ( this.barber ) { return }
+
         let src = {
             male: BARBER_MALE,
             female: BARBER_FEMALE,

@@ -7,6 +7,9 @@ const BaseBot = require("./BaseBot")
 const BOTS = require("./const/bots")
 const GUILDS = require("./const/guilds")
 const SEX = require("./const/sex")
+const CHESTS = require("./const/chests")
+
+const CHEST_OPEN_METHODS = ["free","key"]
 
 module.exports = class extends BaseBot {
     // node qbot.js CANADA ping REFORGE "hey"
@@ -33,6 +36,8 @@ module.exports = class extends BaseBot {
 
     // node qbot.js "" reg Brazil
     async cmd_reg(params) {
+        this.initBarber()
+
         let [ name ] = params
 
         let json
@@ -143,6 +148,55 @@ module.exports = class extends BaseBot {
         return this.bot
     }
 
+    // node qbot.js REFORGE random_face
+    async cmd_random_face(params) {
+        this.initBarber()
+
+        await this.resetReqId()
+
+        let json = await this.query({
+            url: "/user/getprofile/",
+            body: {
+                hero_id: this.bot.id,
+                req_id: 10,
+            },
+        })
+
+        let sex = json.data.profile.sex
+
+        let url = "/barbershop/buymulti/"
+
+        let keepGender = !!this.rand(0,1)
+
+        if ( !keepGender ) {
+            sex = (sex===SEX[0]) ? SEX[1] : SEX[0]
+            url = "/user/changesex/"
+        }
+
+        let skinColor = this.rand(this.barber.skin.min, this.barber.skin.max)
+        let hairColor = this.rand(this.barber.hair.min, this.barber.hair.max)
+
+        let productIDs = []
+
+        let order = ["hair","eyes","eyebrows","nose","facespecial","facialhair"]
+        let types = this.barber.body[sex]
+
+        order.forEach(type => {
+            if ( !types[type] ) { return }
+            productIDs.push(types[type][this.rand(0, types[type].length - 1)])
+        })
+
+        return this.query({
+            url,
+            body: {
+                productIDs,
+                skinColor,
+                hairColor,
+                req_id: 11,
+            },
+        })
+    }
+
     // node qbot.js CANADA join_guild UN
     async cmd_join_guild(params) {
         let [ to ] = params
@@ -163,22 +217,17 @@ module.exports = class extends BaseBot {
         })
     }
 
-    // node qbot.js CANADA gm_accept_join UN VENEZUELA
-    async cmd_gm_accept_join(params) {
-        let [ guildName, botName ] = params
+    // node qbot.js CANADA accept_join_guild VENEZUELA
+    async cmd_accept_join_guild(params) {
+        let [ botName ] = params
 
-        let guildId = GUILDS[guildName.toUpperCase()]
         let bot = BOTS[botName.toUpperCase()]
-
-        if ( !guildId ) throw {
-            reason: `guild "${guildName}" not found`,
-        }
 
         if ( !bot ) throw {
             reason: `bot "${botName}" not found`,
         }
 
-        console.log(`gm_accept_join: guild: ${guildName} ${guildId} bot: ${botName} ${bot.id}`)
+        console.log(`gm_accept_join: ${botName} ${bot.id}`)
 
         return this.query({
             url: "/guild/handlejoinrequest/",
@@ -224,49 +273,79 @@ module.exports = class extends BaseBot {
         })
     }
 
-    // node qbot.js REFORGE random_face
-    async cmd_random_face(params) {
-        await this.resetReqId()
+    // node qbot.js LEMIX ad_gems
+    async cmd_ad_gems(params) {
+        return this.query({
+            url: "/user/watchadviewed/",
+        })
+    }
 
-        let json = await this.query({
-            url: "/user/getprofile/",
+    // node qbot.js LEMIX ad_bank
+    async cmd_ad_bank(params) {
+        return this.query({
+            url: "/user/watchadviewed/",
             body: {
-                hero_id: this.bot.id,
-                req_id: 10,
+                bank_extra_gold: 1,
             },
         })
+    }
 
-        let sex = json.data.profile.sex
+    // node qbot.js LEMIX ad_energy
+    async cmd_ad_energy(params) {
+        return this.query({
+            url: "/user/watchadviewed/",
+            body: {
+                energy: 1,
+            },
+        })
+    }
 
-        let url = "/barbershop/buymulti/"
+    // node qbot.js LEMIX ad_journey
+    async cmd_ad_journey(params) {
+        return this.query({
+            url: "/user/watchadviewed/",
+            body: {
+                shorten_journey_id: 1,
+            },
+        })
+    }
 
-        let keepGender = !!this.rand(0,1)
+    // node qbot.js LEMIX ad_jungle
+    async cmd_ad_jungle(params) {
+        return this.query({
+            url: "/user/watchadviewed/",
+            body: {
+                spin: 1,
+            },
+        })
+    }
 
-        if ( !keepGender ) {
-            sex = (sex===SEX[0]) ? SEX[1] : SEX[0]
-            url = "/user/changesex/"
+    // node qbot.js LEMIX tavern_energy
+    async cmd_tavern_energy(params) {
+        return this.query({
+            url: "/user/gettavernenergy/",
+        })
+    }
+
+    // node qbot.js LEMIX chest eternal free
+    // node qbot.js LEMIX chest gold free
+    // node qbot.js LEMIX chest silver free
+    async cmd_chest(params) {
+        let [ chestID, method ] = params
+
+        if ( !CHESTS[chestID] ) throw {
+            reason: `chest id not found: "${chestID}"`,
         }
 
-        let skinColor = this.rand(this.barber.skin.min, this.barber.skin.max)
-        let hairColor = this.rand(this.barber.hair.min, this.barber.hair.max)
-
-        let productIDs = []
-
-        let order = ["hair","eyes","eyebrows","nose","facespecial","facialhair"]
-        let types = this.barber.body[sex]
-
-        order.forEach(type => {
-            if ( !types[type] ) { return }
-            productIDs.push(types[type][this.rand(0, types[type].length - 1)])
-        })
+        if ( CHEST_OPEN_METHODS.indexOf(method) < 0 ) throw {
+            reason: `chest open method "${method}" not found`,
+        }
 
         return this.query({
-            url,
+            url: "/chestshop/buy/",
             body: {
-                productIDs,
-                skinColor,
-                hairColor,
-                req_id: 11,
+                chestID: CHESTS[chestID],
+                method,
             },
         })
     }

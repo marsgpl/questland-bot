@@ -5,7 +5,7 @@ const BOTS = require("./src/const/bots")
 
 let names = Object.keys(BOTS)
 
-let n = 1000
+let delayBetweenQueries = 1000
 
 names.forEach(name => {
     if ( name === "LEMIX" ) { return }
@@ -19,5 +19,7 @@ names.forEach(name => {
         qbot.action([0,0,0,"join_guild", "REFORGY"])
             .then(r => console.log(r.status))
             .catch(console.error)
-    }, n+=1000)
+    }, delayBetweenQueries)
+
+    delayBetweenQueries += 1000
 })

@@ -1,9 +1,0 @@
-POST /user/watchadviewed/?rand=rwxnigfd HTTP/1.0
-Content-Type: application/x-www-form-urlencoded
-Accept: application/json
-questlanddc: eu2
-Content-Length: 180
-Connection: keep-alive
-Host: gs-eu2-wrk-01.api-ql.com
-
-req_id=37&lang=en&device=70483e32484f7722a533502789d8c41b&token=b305f99a4baa9330cc50cc82cb7ba402&version=1.10.0.24&client_platform=sd_android&chat_last_uts=1529205474.126547&spin=1
