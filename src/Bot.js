@@ -12,6 +12,16 @@ const CHESTS = require("./const/chests")
 const CHEST_OPEN_METHODS = ["free","key"]
 
 module.exports = class extends BaseBot {
+    // node qbot.js LEMIX test
+    async cmd_test(params) {
+        return this.query({
+            url: "/boss/battleeventfightend/",
+            body: {
+                battle_moves: "0-1.0-1.0-1.1-1.0-1.0-1.0-1.1-1.0-1.0-1.0-1.1-1.0-1.0-1.0-1.",
+            },
+        })
+    }
+
     // node qbot.js CANADA ping REFORGE "hey"
     async cmd_ping(params) {
         let [ to, msg ] = params

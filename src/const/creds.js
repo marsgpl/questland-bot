@@ -1,6 +1,6 @@
 //
 
-const VERSION = "1.10.3.8"
+const VERSION = "1.10.6.14"
 
 const REGION = "eu2"
 const HOST = "gs-eu2-wrk-05.api-ql.com" // 01 - 05
